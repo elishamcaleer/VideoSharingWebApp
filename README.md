@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/McAleer-E80303/VideoShare/_apis/build/status/elishamcaleer.VideoSharingWebApp?branchName=azure-pipelines)](https://dev.azure.com/McAleer-E80303/VideoShare/_build/latest?definitionId=1&branchName=azure-pipelines)
+
 ---
 page_type: sample
 languages:
