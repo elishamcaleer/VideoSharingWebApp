@@ -21,7 +21,4 @@ steps:
     npm run build
   displayName: 'npm install and build'
 
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'test'
-    testRunTitle: 'Run Tests'
+
